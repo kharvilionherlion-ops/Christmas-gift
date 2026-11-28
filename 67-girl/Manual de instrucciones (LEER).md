@@ -1,7 +1,7 @@
 # Orden de ejecución de los ficheros teórico (intenta seguirlo para no llevarte ningún spoiler o algo semejante):
 
 	- Abrir fichero .png. ¿Mejor ir de peor a mejor, no?
-	- Ejecutar scripts de Python (.py). Puedes ejecutarlos en el orden que gustes.
+	- Descargar y ejecutar scripts de Python (.py). Puedes ejecutarlos en el orden que gustes.
 	- (Opcional) Acceder al código fuente de los ficheros .py con algún intérprete de código de alto nivel; podrás observar algún que otro detalle extra para ti
 
 ## ¡Importante!
@@ -19,7 +19,8 @@
 	- Cuidado con modificar valores y la configuración de los ficheros ejecutables de Python. Si buscas escribir algún texto o probar, recuerda antes
  	- NO cambiar valores ya establecidos. Si solo quieres poner un comentario, tan solo pon "#" o '"""' cerrando también con otros """.
 
-	- ¡No te olvides de comentarte qué te ha parecido! Me haría muy feliz conocer tu opinión, ya que recuerda; todo esto es para ti, como recuerdo, 
-  	- como detalle, y como experiencia <3.
+
+¡No te olvides de comentarte qué te ha parecido! Me haría muy feliz conocer tu opinión, ya que recuerda; todo esto es para ti, como recuerdo, 
+como detalle, y como experiencia <3.
 
 # ¡Disfruta de tus regalos y de tu hermoso día! :D
